@@ -1,0 +1,19 @@
+body{
+    background-color: #474747;
+    color: #ffffff;
+}
+.container{
+    display: grid;
+    grid-gap: 10px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.guessField{
+    background-color: #7c7c7c;
+}
+
+.button{
+    background-color: #a0a0a0;
+}
